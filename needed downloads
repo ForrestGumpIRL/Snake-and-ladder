@@ -1,0 +1,8 @@
+Python: https://www.python.org/downloads/
+
+After you have installed Python, you can do following to install modules:
+    Pygame: write "pip install pygame" in windows search, and select "run command".
+
+    Random: write "pip install random" in windows search, and select "run command".
+
+    Time: write "pip install time" in windows search, and select "run command".
